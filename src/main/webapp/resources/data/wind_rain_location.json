@@ -1,0 +1,56 @@
+[			
+			{
+			"groupName": "Locator",
+				"family": "QIB",
+				"id": "00011",
+				"name": "QIB-100",
+				"wind": 100, 
+				"rain": 100,
+				"icon": "sqr"
+			}, 
+			{
+			"groupName": "Locator",
+				"family": "QIB",
+				"id": "00012",
+				"name": "QIB-100",
+				"wind": 200, 
+				"rain": 200,
+				"icon": "sqr"
+			},
+			{
+			"groupName": "Reader",
+				"family": "QIR",
+				"id": "10001",
+				"name": "QIR-100",
+				"wind": 880, 
+				"rain": 300,
+				"icon": "cir"
+			}, 
+			{
+			"groupName": "Reader",
+				"family": "QIR",
+				"id": "10002",
+				"name": "QIR-100",
+				"wind": 20, 
+				"rain": 300,
+				"icon": "cir"
+			},
+{
+			"groupName": "Repeater",
+				"family": "QIP",
+				"id": "20001",
+				"name": "QIP-100",
+				"wind": 400, 
+				"rain": 400,
+				"icon": "tri"
+			}, 
+			{
+			"groupName": "Repeater",
+				"family": "QIP",
+				"id": "20002",
+				"name": "QIP-100",
+				"wind": 200, 
+				"rain": 500,
+				"icon": "tri"
+			}				
+]

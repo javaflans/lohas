@@ -1,0 +1,11 @@
+body {
+	font-family: Microsoft JhengHei;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.k-chart,#chart1{
+	width: 1000px;
+	height: 600px;
+}

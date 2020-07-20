@@ -1,0 +1,19 @@
+#grid {
+	width: 90%;
+	margin-left: 3%;
+}
+
+.k-grid-pager {
+	font-size: 5px;
+}
+
+.k-grid .k-header {
+	font-size: 10px;
+}
+
+.dataInfo td {
+	border: 1px solid #eeeeee;
+	padding: 5px;
+	font-size: 32px;
+}
+

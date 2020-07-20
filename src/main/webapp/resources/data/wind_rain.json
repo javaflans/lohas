@@ -1,0 +1,34 @@
+[
+	{
+		"groupName": "住民",
+		"family": "Pentium",
+		"name": "A 820",
+		"wind": 100,
+		"rain": 100,
+		"icon": "sqr"
+	},
+	{
+		"groupName": "住民",
+		"family": "Pentium",
+		"name": "A 850",
+		"wind": 200,
+		"rain": 200,
+		"icon": "sqr"
+	},
+	{
+		"groupName": "照護員",
+		"family": "Pentium",
+		"name": "B 777",
+		"wind": 300,
+		"rain": 300,
+		"icon": "cir"
+	},
+	{
+		"groupName": "照護員",
+		"family": "Pentium",
+		"name": "B 888",
+		"wind": 400,
+		"rain": 400,
+		"icon": "cir"
+	}
+]
