@@ -1,5 +1,5 @@
 # lohas
-spring mvc project by lohas
+基於 Spring mvc 製作的健康樂齡室內活動後台
 
 ## history
 - 榮總 RFID card track client platform on 2018.
